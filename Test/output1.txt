@@ -1,0 +1,18 @@
+---------------------------
+Namespace Test
+[IntCalc] 10 + 3 = 13
+[IntCalc] 10 - 3 = 7
+[IntCalc] 10 * 3 = 30
+[IntCalc] 10 / 3 = 3
+[IntCalc] 10.5 + 3.2 = 13
+[IntCalc] 10.5 - 3.2 = 7
+[IntCalc] 10.5 * 3.2 = 30
+[IntCalc] 10.5 / 3.2 = 3
+[FloatCalc] 10 + 3 = 13
+[FloatCalc] 10 - 3 = 7
+[FloatCalc] 10 * 3 = 30
+[FloatCalc] 10 / 3 = 3.33333
+[FloatCalc] 10.5 + 3.2 = 13.7
+[FloatCalc] 10.5 - 3.2 = 7.3
+[FloatCalc] 10.5 * 3.2 = 33.6
+[FloatCalc] 10.5 / 3.2 = 3.28125
